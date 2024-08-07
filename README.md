@@ -1,7 +1,7 @@
 # Welcome!
 ## I'm Felipe Teixeira!
 
-<p>A Android Developer from Brazil 🇧🇷</p>
+<p>An Android Developer from Brazil 🇧🇷</p>
 
 - Java | Kotlin
 
