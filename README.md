@@ -1,9 +1,9 @@
 # Welcome!
 ## I'm Felipe Teixeira!
 
-<p>An Android Developer from Brazil 🇧🇷</p>
+<p>A Developer from Brazil 🇧🇷</p>
 
-- Java | Kotlin
+- Java | Kotlin | Python
 
 ## GitHub Stats
 ![Teixeira Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=teixeira0x&layout=compact&langs_count=16&theme=gotham)
