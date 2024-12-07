@@ -3,7 +3,7 @@
 
 <p>A Developer from Brazil 🇧🇷</p>
 
-- Java | Kotlin | Python
+- Java | Kotlin
 
 ## GitHub Stats
 ![Teixeira Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=teixeira0x&layout=compact&langs_count=16&theme=gotham)
