@@ -1,1 +1,11 @@
+# Welcome!
+## I'm Felipe Teixeira!
 
+<p>A Developer from Brazil 🇧🇷</p>
+
+- JavaScript | Java | Kotlin | Python
+
+## GitHub Stats
+![Teixeira Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=teixeira0x&layout=compact&langs_count=16&theme=gotham)
+
+![Teixeira Stat's](https://github-readme-stats.vercel.app/api?username=teixeira0x&show_icons=true&theme=gotham&include_all_commits=true&count_private=false)
